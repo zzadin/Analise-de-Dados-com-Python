@@ -1,3 +1,6 @@
+Resumo do Projeto de Análise de Hábitos de Estudo
+Neste projeto, utilizei Python com Pandas, Matplotlib e Seaborn para analisar dados de desempenho acadêmico e hábitos de estudo.
+
 Principais aprendizados e técnicas usadas:
 
 Carregamento e exploração de dados com pd.read_csv() e visualização do DataFrame
@@ -8,4 +11,3 @@ Categorização de variáveis usando pd.cut() para criar bins de intervalos
 Boxplots para comparar distribuições entre diferentes grupos
 Agrupamento de dados com groupby() para calcular estatísticas por categoria (média e desvio padrão)
 Visualizações exploratórias com histogramas e boxplots para investigar padrões
-O projeto demonstrou como hábitos de estudo, tempo em redes sociais, exercício físico e qualidade de dieta impactam o desempenho acadêmico dos alunos.
